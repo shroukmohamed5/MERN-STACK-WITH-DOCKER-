@@ -1,4 +1,4 @@
-# A Project MERN stack With Docker🐳
+# A Project MERN Stack With Docker🐳
 <img width="1280" height="660" alt="image" src="https://github.com/user-attachments/assets/19c18cd4-a7f8-491a-8752-be2321ba215a" />
 
 
@@ -39,6 +39,7 @@ docker build -t mern-backend .
 ## Using Docker Compose
 
 `docker compose up -d`
+
 <img width="458" height="194" alt="image" src="https://github.com/user-attachments/assets/4fa767f1-c6dc-49b6-bc06-5781654fde31" />
 
 
