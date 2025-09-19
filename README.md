@@ -1,6 +1,8 @@
 # A Project MERN Stack With Docker🐳
 <img width="1280" height="660" alt="image" src="https://github.com/user-attachments/assets/19c18cd4-a7f8-491a-8752-be2321ba215a" />
 
+<img width="1915" height="401" alt="image" src="https://github.com/user-attachments/assets/1583724a-a9f5-4720-b49c-aaca218e1c73" />
+
 
 ### Create a network for the docker containers
 
